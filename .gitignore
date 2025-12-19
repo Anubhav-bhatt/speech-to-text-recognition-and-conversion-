@@ -1,3 +1,18 @@
+# Virtual environment
+venv/
 
+# Audio files
+*.wav
+*.mp3
+*.m4a
+*.ogg
+
+# Audio folders
+recordings/
+uploads/
+audio/
+
+# OS files
+.DS_Store
 
 
